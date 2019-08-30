@@ -3,13 +3,20 @@ Implementation of feed-forward style transfer with keras and tensorflow based on
 
 ## Examples:
 ### Style: ![style1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/styles/style1.jpg)
-#### Target: ![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/targets/target1.jpg)  
-#### Result: ![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/results/result1.jpg)
+#### Target: 
+![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/targets/target1.jpg)  
+#### Result: 
+![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/results/result1.jpg)
 
-#### Target: ![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/targets/target2.jpg)  
-#### Result: ![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/results/result2.jpg)
+#### Target: 
+![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/targets/target2.jpg)  
+#### Result: 
+![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/results/result2.jpg)
 
 
-### Style: ![style1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/styles/style2.jpg)
-#### Target: ![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/targets/target3.jpg)  
-#### Result: ![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/results/result3.jpg)
+### Style: 
+![style1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/styles/style2.jpg)
+#### Target: 
+![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/targets/target3.jpg)  
+#### Result: 
+![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/results/result3.jpg)
