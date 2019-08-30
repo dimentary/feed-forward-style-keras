@@ -1,7 +1,7 @@
 # feed-forward-style-keras
 Implementation of feed-forward style transfer with keras and tensorflow based on [this paper](https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf). Actually this code can be used as classical style transfer by disabling model's transform part and setting one training image as `tf.Variable`.
 
-<span style="color:blue">## Examples:</span>
+## <span style="color:blue">*Examples:*</span>
 ### Style: ![style1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/styles/style1.jpg)
 #### Target: 
 ![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/targets/target1.jpg)  
@@ -13,7 +13,7 @@ Implementation of feed-forward style transfer with keras and tensorflow based on
 #### Result: 
 ![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/results/result2.jpg)
 
-<span style="color:blue">## Examples:</span>
+## <span style="color:blue>*Examples:*</span>
 ### Style: 
 ![style1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/styles/style2.jpg)
 #### Target: 
