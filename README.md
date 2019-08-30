@@ -13,6 +13,7 @@ Implementation of feed-forward style transfer with keras and tensorflow based on
 #### Result: 
 ![target1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/results/result2.jpg)
 
+
 ### Style 2: 
 ![style1](https://github.com/Valret/feed-forward-style-keras/blob/master/images/styles/style2.jpg)
 #### Target: 
